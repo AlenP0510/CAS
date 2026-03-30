@@ -1,0 +1,15 @@
+LICENSE
+README.md
+pyproject.toml
+delta_cas/__init__.py
+delta_cas/agent.py
+delta_cas/core.py
+delta_cas/epoch.py
+delta_cas/intent.py
+delta_cas/storage.py
+delta_cas.egg-info/PKG-INFO
+delta_cas.egg-info/SOURCES.txt
+delta_cas.egg-info/dependency_links.txt
+delta_cas.egg-info/requires.txt
+delta_cas.egg-info/top_level.txt
+tests/test_core.py
